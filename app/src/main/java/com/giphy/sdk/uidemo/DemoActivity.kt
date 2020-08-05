@@ -37,7 +37,7 @@ class DemoActivity : AppCompatActivity() {
     var messageItems = ArrayList<FeedDataItem>()
 
     //TODO: Set a valid API KEY
-    val YOUR_API_KEY = INVALID_KEY
+    val YOUR_API_KEY = "5UxMkFal88bMT46GypPdjvWOuGGB3JvH"
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
